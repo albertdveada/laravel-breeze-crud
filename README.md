@@ -40,7 +40,7 @@ This project is a simple implementation of **CRUD (Create, Read, Update, Delete)
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/username/laravel-crud.git
+   git clone https://github.com/albertdevada/laravel-crud.git
    cd laravel-crud
     ```
 2. **Install Laravel dependencies:**
