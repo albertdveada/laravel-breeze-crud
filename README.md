@@ -11,8 +11,6 @@
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-**[ [🇮🇩 INDONESIAN LANGUAGE VERSION](https://translate.google.com/translate?hl=&sl=en&tl=id&u=https://github.com/albertdveada/laravel-breeze-crud) ]**
-
 ## About Laravel CRUD
 
 This project is a simple implementation of **CRUD (Create, Read, Update, Delete)** features using the **Laravel** framework. It was built as a learning tool and skill development project for building modern web applications, enhanced with **Alpine.js** and **Tailwind CSS** on the frontend.
